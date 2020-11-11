@@ -1,0 +1,2 @@
+# CCC
+Waterloo CCC Competition
